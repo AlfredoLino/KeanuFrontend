@@ -1,0 +1,22 @@
+{
+    "widthInput": {
+        "label": "Keanu Width",
+        "helperText": "Enter the image width",
+        "required": true,
+        "type": "number"
+    },
+
+    "heightInput": {
+        "label": "Keanu Height",
+        "helperText": "Enter the image height",
+        "type": "number"
+    },
+
+    "grayScaleCheck": {
+        "label": "Keanu Gray"
+    },
+
+    "youngKeanuCheck": {
+        "label": "Young Keanu"
+    }
+}
